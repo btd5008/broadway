@@ -43,3 +43,7 @@ p {
   color: white;
   text-align: left;
 }
+
+ul {
+  list-style: none;
+}

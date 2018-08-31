@@ -3,17 +3,23 @@ body {
   text-align: center;
 }
 
-#home {
+.hero {
   background-image: url("../../resources/images/the-flatiron-building.png");
   color: white;
+  text-align: center;
 }
 
 h {
   font-weight: bold;
 }
 
-h1 {
+.hero h1 {
   font-size: 70px;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
 }
 
 h2 {
@@ -26,11 +32,6 @@ h3 {
 
 p {
   font-size: 14px;
-}
-
-.NY {
-  color: white;
-  background-image: url("../../resources/images/the-flatiron-building.png")
 }
 
 .nav {
